@@ -1,0 +1,10 @@
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\bin\Debug\Laba_1(TA).exe.config
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\bin\Debug\Laba_1(TA).exe
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\bin\Debug\Laba_1(TA).pdb
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\obj\Debug\Laba_1(TA).csproj.AssemblyReference.cache
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\obj\Debug\Laba_1_TA_.Form1.resources
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\obj\Debug\Laba_1_TA_.Properties.Resources.resources
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\obj\Debug\Laba_1(TA).csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\obj\Debug\Laba_1(TA).csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\obj\Debug\Laba_1(TA).exe
+C:\Users\Danil\source\repos\Laba_1(TA)\Laba_1(TA)\obj\Debug\Laba_1(TA).pdb
